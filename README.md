@@ -1,2 +1,2 @@
 # moyun.github.io
-moyun blog
+welcome to my blog
